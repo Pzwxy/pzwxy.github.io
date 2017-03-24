@@ -2,14 +2,14 @@
 title: Hanson
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "Pzwxy|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://pzwxy.github.io"  
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "pengzhiwei"
+  email: Pzwxy_77@163.com
   bio: ""
 
 # Data
@@ -18,10 +18,10 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: Pzwxy
+weibo_username: Pzwxy
 facebook_username:
-zhihu_username: zhang-yi-sen-46
+zhihu_username: Pzwxy
 
 # Build settings  
 # use Github Flavored Markdown !important  
